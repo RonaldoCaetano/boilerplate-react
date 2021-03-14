@@ -1,6 +1,6 @@
 {
-  "name": "boilerplate",
-  "version": "0.1.0",
+  "name": "react-avancado-boilerplate",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -19,9 +19,11 @@
   },
   "dependencies": {
     "next": "10.0.8",
+    "next-pwa": "^5.0.6",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "styled-components": "^5.2.1"
+    "styled-components": "^5.2.1",
+    "webpack": "4"
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.13.0",
